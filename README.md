@@ -1,4 +1,4 @@
-<img align="center"[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s​)](https://peakyblinders2024.io​)"
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s​)](https://peakyblinders2024.io​)
 <h1 align="center">Hi 👋, I'm Umar Shehzad</h1>
 <h3 align="center">From algorithms to applications, a computer science journey in progress.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtGwTMbsdRBR58yKjoKsJ1heb62m-WC5DlizfoHbeow&s​">
